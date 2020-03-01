@@ -8,7 +8,7 @@ html, body{
 .hero {
     display: table;
     position: relative;
-    background-image: url("../arkademy/image/homepage.png");
+    background-image: url(image/homepage.png);
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -49,7 +49,7 @@ html, body{
   .hero_read {
     display: table;
     position: relative;
-    background-image: url("../arkademy/image/readmore.png");
+    background-image: url(image/readmore.png);
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -79,7 +79,7 @@ html, body{
     .hero_read {
     display: table;
     position: relative;
-    background-image: url("../arkademy/image/readmore.png");
+    background-image: url(image/readmore.png);
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -119,7 +119,7 @@ html, body{
   .hero_reservation {
     display: table;
     position: relative;
-    background-image: url("../arkademy/image/reservation.png");
+    background-image: url(image/reservation.png);
     background-size: cover;
     width: 100%;
     height: 100%;
